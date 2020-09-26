@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username and pass are right</description>
+   <name>TestCase 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b85394bd-f4c7-4bc0-ac62-c3457d071dff</testCaseGuid>
+</TestCaseEntity>

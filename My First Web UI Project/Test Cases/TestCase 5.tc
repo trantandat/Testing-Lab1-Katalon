@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username and password are wrong.</description>
+   <name>TestCase 5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>084a9128-6ba2-426e-accf-c402396a35d4</testCaseGuid>
+</TestCaseEntity>
